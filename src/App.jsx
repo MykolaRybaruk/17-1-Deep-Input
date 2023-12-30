@@ -1,12 +1,13 @@
 import Header from "./components/Header.jsx";
 import Login from "./components/Login.jsx";
+import Signup from "./components/Signup.jsx";
 
 function App() {
   return (
     <>
       <Header />
       <main>
-        <Login />
+        <Signup />
       </main>
     </>
   );
@@ -14,4 +15,4 @@ function App() {
 
 export default App;
 
-//Закінчив перегляд на 341 відео
+//Закінчив перегляд на 343 відео
